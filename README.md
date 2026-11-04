@@ -1,5 +1,5 @@
 <!--
-  PROFILE README — Kankanil Das
+  PROFILE README — Rudra8927
   Cyberpunk / terminal-inspired developer identity
 -->
 
