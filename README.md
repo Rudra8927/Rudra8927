@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b2b18,100:00ff88&height=190&section=header&text=KANKANIL DAS&fontSize=48&fontColor=00ff88&animation=fadeIn&fontAlignY=36&desc=BUILDING%20%E2%80%A2%20BREAKING%20%E2%80%A2%20SECURING&descSize=14&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b2b18,100:00ff88&height=190&section=header&text=KANKANIL%DAS&fontSize=48&fontColor=00ff88&animation=fadeIn&fontAlignY=36&desc=BUILDING%20%E2%80%A2%20BREAKING%20%E2%80%A2%20SECURING&descSize=14&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Rudra+%F0%9F%91%8B;AI+%7C+Cybersecurity+%7C+Ethical+Hacking;Linux+%7C+Python+%7C+Networking;Learning.+Building.+Securing." alt="Typing SVG" />
